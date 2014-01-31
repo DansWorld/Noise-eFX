@@ -1,0 +1,22 @@
+Contents of /Users/code/plugin-development/wdl-ol/IPlugExamples/NoiseyFX/../../WDL/IPlug/IPlug_Prefix.pch
+-x
+objective-c++
+-arch
+i386
+-fretain-comments-from-system-headers
+-fpascal-strings
+-O0
+-D_DEBUG
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.5.sdk
+-fasm-blocks
+-mmacosx-version-min=10.5
+-g
+-fvisibility-inlines-hidden
+-ferror-limit=10
+-Xclang
+-detailed-preprocessing-record
+i386-apple-darwin12.5.0
+"4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)"
+SDK_PRODUCT_BUILD_VERSION=9J61
+9J61
